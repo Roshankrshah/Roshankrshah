@@ -28,7 +28,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent)![image] ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/ce81ffc3-2306-49e5-bbb0-92a3c6ae9105)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent)![image] (https://github.com/Roshankrshah/Roshankrshah/assets/91787844/ce81ffc3-2306-49e5-bbb0-92a3c6ae9105)
 
 
 ***
