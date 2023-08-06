@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**Myself Roshan Kumar Shah** #### ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/7555a32e-ea46-433c-8f0f-00853fbe6f06)
-
+**Myself Roshan Kumar Shah**
 ***
+- ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/d035c367-0ad1-44ef-a3dd-f5c02c811bac)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
