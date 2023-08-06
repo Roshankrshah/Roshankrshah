@@ -1,10 +1,7 @@
 ### Hi there 👋
+
+**Myselft Roshan Kumar Shah** https://github.com/Roshankrshah/Assets/blob/85ce5fb616d8fec241c8e37d501480bc7bca5c15/man-technologist-people.gif
 ***
-
-
-**Roshankrshah/Roshankrshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
