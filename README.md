@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-**Myselft Roshan Kumar Shah** https://github.com/Roshankrshah/Assets/blob/85ce5fb616d8fec241c8e37d501480bc7bca5c15/man-technologist-people.gif
+### Myselft Roshan Kumar Shah man-technologist-people.gif
 ***
 
 - 🔭 I’m currently working on ...
