@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Roshankrshah/Roshankrshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
