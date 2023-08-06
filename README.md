@@ -16,4 +16,4 @@
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent)
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/roshankrshah/github-readme-stats&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshankrshah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
