@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-**Myself Roshan Kumar Shah**
+Myself **Roshan Kumar Shah**<br/>
 ![](https://komarev.com/ghpvc/?username=roshankrshah&color=green)
 ***
 
@@ -29,12 +29,30 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent) ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/53c7ebe0-80fd-4a9c-be23-c8f1be6588af)
+
+<table role="table">
+        <tbody>
+            <tr>
+                <td align="center">
+                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent)
+                </td>
+                <td align="center">
+                  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshankrshah&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
+                </td>
+            </tr>
+        </tbody>
+</table>
+
+ ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/53c7ebe0-80fd-4a9c-be23-c8f1be6588af)
 
 
 
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshankrshah&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 ## Connect with me:
