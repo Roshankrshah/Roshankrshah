@@ -59,7 +59,7 @@ Myself **Roshan Kumar Shah**
 <h3 align="center"> Connect with me <br></h3>
 <p align="center">
   <a href="https://twitter.com/Roshankrshah2"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/x.svg"/></a> 
-  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/linkedin.svg" width="10px" height="10px"/></a>
 </p>
 
 <p align="center" width="100%">
