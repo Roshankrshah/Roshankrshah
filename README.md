@@ -30,16 +30,7 @@ Myself **Roshan Kumar Shah**<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
 ***
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%; padding: 10px; background-color: #f2f2f2;">
-         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent)
-        <p>This is widget 1.</p>
-    </div>
-    <div style="width: 48%; padding: 10px; background-color: #f2f2f2;">
-        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
-        <p>This is widget 2.</p>
-    </div>
-</div>
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)|
 
 
  ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/53c7ebe0-80fd-4a9c-be23-c8f1be6588af)
@@ -48,7 +39,7 @@ Myself **Roshan Kumar Shah**<br/>
 
 ***
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankrshah&size_weight=0.5&count_weight=0.5&theme=transparent)
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent)](https://git.io/streak-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ***
 ## Connect with me:
 - ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) (https://twitter.com/Roshankrshah2)
