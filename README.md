@@ -1,6 +1,7 @@
 #### Hi there 👋
 
 **Myself Roshan Kumar Shah**
+![](https://komarev.com/ghpvc/?username=roshankrshah&color=green)
 ***
 
 - 🔭 I’m currently working on ...
