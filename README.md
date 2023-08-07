@@ -3,11 +3,13 @@
 Myself **Roshan Kumar Shah**
 <br>
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
-![](https://komarev.com/ghpvc/?username=roshankrshah&color=green)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/roshankrshah/count.svg" />
 </p>
+<img align="right" alt="GIF" src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" width="400px" height="250" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,10 +17,11 @@ Myself **Roshan Kumar Shah**
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+  <br>
 
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
-#### Languages and Tools:
+<h3 align="center"> Tech Stack <br></h3>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -34,7 +37,7 @@ Myself **Roshan Kumar Shah**
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
 <details open>
- <summary><b>📊 GitHub Stats</b></summary><br/>
+ <summary align="center"><b>📊 GitHub Stats</b></summary><br/>
  <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent" />
  </p> 
