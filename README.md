@@ -38,7 +38,7 @@ Myself **Roshan Kumar Shah**
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
 <details open>
- <summary align="center"><b>📊 GitHub Stats</b></summary><br/>
+ <summary align="center"><b><h3>GitHub Stats</h3>h3></b></summary><br/>
  <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent" />
  </p> 
@@ -55,7 +55,13 @@ Myself **Roshan Kumar Shah**
 </details>
 
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
-## Connect with me:
 
-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) (https://twitter.com/Roshankrshah2)
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/roshan-kumar-shah-838b63214)
+<h3 align="center"> Connect with me <br></h3>
+<p align="center">
+  <a href="https://twitter.com/Roshankrshah2"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/x.svg"/></a> 
+  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/linkedin.svg"/></a>
+</p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
+</p>
