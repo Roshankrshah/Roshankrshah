@@ -61,8 +61,8 @@ Myself **Roshan Kumar Shah**
 <h3 align="center"> Connect with me <br></h3>
 
 <p align="center">
-  <a href="https://twitter.com/Roshankrshah2"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width ="50px"/></a> 
-  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px" height="10px"/></a>
+  <a href="https://twitter.com/Roshankrshah2"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px"/></a> 
+  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png " width="50px"/></a>
 </p>
 
 <p align="center" width="100%">
