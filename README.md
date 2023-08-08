@@ -6,7 +6,6 @@
 #### Hi there 👋
 Myself **Roshan Kumar Shah**
 -->
-<br>
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
 <p align="center"> 
