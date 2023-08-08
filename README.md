@@ -59,12 +59,12 @@ Myself **Roshan Kumar Shah**
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
 <h3 align="center"> Connect with me <br></h3>
-<!--
+
 <p align="center">
-  <a href="https://twitter.com/Roshankrshah2"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/x.svg"/></a> 
-  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://github.com/Roshankrshah/Assets/blob/899ae279332390239f058e6bc8a8f2e695ccbcb6/linkedin.svg" width="10px" height="10px"/></a>
+  <a href="https://twitter.com/Roshankrshah2"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width ="30px"/></a> 
+  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="10px" height="10px"/></a>
 </p>
--->
+
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
 </p>
