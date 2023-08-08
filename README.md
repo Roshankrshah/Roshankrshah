@@ -1,9 +1,10 @@
-#### Hi there 👋
 
+<img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 ![image](https://github.com/Roshankrshah/Roshankrshah/assets/91787844/8cfa4001-c0e8-404d-bf97-1828df448a64)
-
-
+<!--
+#### Hi there 👋
 Myself **Roshan Kumar Shah**
+-->
 <br>
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
