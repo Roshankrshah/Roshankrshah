@@ -40,13 +40,14 @@ Myself **Roshan Kumar Shah**
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
+
 <details open>
  <summary align="center"><b><h3>GitHub Stats</h3></b></summary><br/>
  <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent" />
  </p> 
  <p align="center">
-   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankrshah&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankrshah&theme=transparent&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
  </p>
  <table align="center" style= "border:none;">
   <tr>
