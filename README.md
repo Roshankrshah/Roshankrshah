@@ -41,7 +41,7 @@ Myself **Roshan Kumar Shah**
 
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
-<details open>
+<details open style="padding: 5px 5px">
  <summary align="center"><b><h3>GitHub Stats</h3></b></summary><br/>
  <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent" />
