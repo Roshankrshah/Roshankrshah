@@ -47,7 +47,7 @@ Myself **Roshan Kumar Shah**
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Roshankrshah&theme=transparent" />
  </p> 
  <p align="center">
-   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankrshah&theme=transparent&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankrshah&bg_color=000000&color=2074e3&line=61dafb&point=f0fcff&area=true&hide_border=false" />
  </p>
  <table align="center" style= "border:none;">
   <tr>
