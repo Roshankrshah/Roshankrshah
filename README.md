@@ -110,8 +110,8 @@ Myself **Roshan Kumar Shah**
 <h3 align="center"> Connect with me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214">
-    <img width="52" height="52" src="https://img.icons8.com/metro/52/000000/domain.png" alt="domain"/>
+  <a href="https://roshan-portfolio07.netlify.app/">
+    <img src="https://img.icons8.com/metro/52/12DA6C/domain.png" width="50" alt="domain"/>
   </a>
   <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/>
