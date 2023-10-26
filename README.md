@@ -25,7 +25,7 @@ Myself **Roshan Kumar Shah**
 
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
-<h3 align="center"> Tech Stack <br></h3>
+<h3 align="center"> Tech Stack </h3>
 
 <table>
   <tr>
@@ -107,11 +107,18 @@ Myself **Roshan Kumar Shah**
 
 <img src="https://github.com/Roshankrshah/Assets/blob/b45a5b750d3833b48fb5623ea078f1845f382c7d/lineBar.png" width="100%" height="8px"/>
 
-<h3 align="center"> Connect with me <br></h3>
+<h3 align="center"> Connect with me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/></a>
-  <a href="https://twitter.com/Roshankrshah2"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px"/></a> 
+  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214">
+    <img width="52" height="52" src="https://img.icons8.com/metro/52/000000/domain.png" alt="domain"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roshan-kumar-shah-838b63214">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/>
+  </a>
+  <a href="https://twitter.com/Roshankrshah2">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px"/>
+  </a> 
 </p>
 
 <p align="center" width="100%">
